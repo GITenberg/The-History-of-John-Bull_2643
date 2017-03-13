@@ -1,5 +1,5 @@
 _repo: The-History-of-John-Bull_2643
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   author_of_introduction:
     agent_name: Morley, Henry
@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '1355'
     url: http://www.gutenberg.org/2009/agents/1355
     wikipedia: http://en.wikipedia.org/wiki/Henry_Morley
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Arbuthnot, John
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/983
     wikipedia: http://en.wikipedia.org/wiki/John_Arbuthnot
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2643#The-History-of-John-Bull
 gutenberg_issued: '2001-05-01'
 gutenberg_type: Text
 identifiers:
